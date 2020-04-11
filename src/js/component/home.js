@@ -1,2 +1,3 @@
 import React from "react";
-import navbar from "navbar";
+import navbar from "./navbar";
+import cards from "./cards"
